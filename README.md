@@ -3,10 +3,12 @@ Podomoro App adalah aplikasi web sederhana yang dirancang untuk membantu meningk
 
 ## ✨ Fitur Utama
 ✅ Start Timer – Memulai sesi kerja dengan durasi default 25 menit.
+
 ✅ Stop Timer – Menghentikan penghitung waktu kapan saja.
 
 ## 🚧 Fitur yang Akan Dikembangkan
 🔄 Reset Timer – Mengatur ulang timer ke durasi awal dan menghentikan sesi.
+
 ⏸️ Pause/Resume – Menjeda sementara sesi dan melanjutkannya kembali kapan saja.
 
 ## 🛠️ Teknologi yang Digunakan
