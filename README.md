@@ -1,31 +1,31 @@
-# Podomoro App
+## 📌 Podomoro App
+Podomoro App adalah aplikasi web sederhana yang dirancang untuk membantu meningkatkan fokus dan produktivitas dengan menerapkan teknik Pomodoro. Aplikasi ini menyediakan timer yang membantu pengguna untuk fokus dalam sesi kerja yang terstruktur.
 
-**Podomoro App** adalah aplikasi web sederhana yang dirancang untuk membantu meningkatkan fokus dengan menggunakan teknik Pomodoro. Dengan fitur timer yang dapat mengatur fokus pada sesi kerja , aplikasi ini bertujuan untuk meningkatkan produktivitas.
+## ✨ Fitur Utama
+✅ Start Timer – Memulai sesi kerja dengan durasi default 25 menit.
+✅ Stop Timer – Menghentikan penghitung waktu kapan saja.
 
-## Fitur Utama
+## 🚧 Fitur yang Akan Dikembangkan
+🔄 Reset Timer – Mengatur ulang timer ke durasi awal dan menghentikan sesi.
+⏸️ Pause/Resume – Menjeda sementara sesi dan melanjutkannya kembali kapan saja.
 
-1. **Start Timer:** Mulai sesi kerja dengan durasi yang telah ditentukan (default 25 menit).
-2. **Stop Timer:** Menghentikan timer pada waktu tertentu.
+## 🛠️ Teknologi yang Digunakan
+HTML5 – Struktur halaman web.
+CSS3 – Tampilan visual dan desain responsif.
+JavaScript – Logika aplikasi dan manajemen timer.
 
-## Fitur yang Akan Dikembangkan
-
-- **Tombol "Reset":** Mengembalikan timer ke durasi awal dan menjeda sesi.
-- **Tombol "Jeda":** Menjeda penghitung waktu sementara dan memungkinkan untuk melanjutkan kembali ketika ditekan.
-
-## Teknologi yang Digunakan
-
-- **HTML5:** Untuk struktur halaman web.
-- **CSS3:** Untuk desain dan tampilan responsif.
-- **JavaScript:** Untuk logika aplikasi, pengelolaan timer, dan interaktivitas.
-
-## Cara Menjalankan Aplikasi di terminal atau command prompt
-
-1. **Clone repository ini:**
-   ```bash
+## ▶️ Cara Menjalankan Aplikasi
+1. Clone repository ini:
+   ```
    git clone https://github.com/username/podomoro-app.git
-2. cd podomoro-app
-3. code .
-4. Buka file index.html di browser: Cukup buka file index.html menggunakan browser favorit kamu dan aplikasi siap digunakan!
+2. Masuk ke folder proyek:
+   ```
+   cd podomoro-app
+3. Buka di VS Code (opsional):
+   ```
+   code .
+4. Jalankan di browser:
+Buka file index.html menggunakan browser favoritmu.
+Aplikasi berbasis web siap digunakan!
 
-   
 
