@@ -19,7 +19,7 @@ JavaScript – Logika aplikasi dan manajemen timer.
 ## ▶️ Cara Menjalankan Aplikasi
 1. Clone repository ini:
    ```
-   git clone https://github.com/username/podomoro-app.git
+   git clone https://github.com/narendrasatyaa/podomoro-app.git
 2. Masuk ke folder proyek:
    ```
    cd podomoro-app
